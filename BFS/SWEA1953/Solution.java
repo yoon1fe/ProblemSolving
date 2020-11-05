@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 package SWEA;
 
+=======
+>>>>>>> dc66cd4ff401025906323d8a40f8155d12b02eeb
 import java.io.*;
 import java.util.*;
 
@@ -13,8 +16,13 @@ public class Solution {
 	}
 	
     static int[] dy = {-1, 0, 1, 0};
+<<<<<<< HEAD
     static int[] dx = {0, 1, 0, -1};		// ìƒ, ìš°, í•˜, ì¢Œ
     static int N, M, R, C, L;				// ì„¸ë¡œ, ê°€ë¡œ, ë§¨í™€ ìœ„ì¹˜(R, C), íƒˆì¶œ í›„ ì†Œìš”ëœ ì‹œê°„ L
+=======
+    static int[] dx = {0, 1, 0, -1};		// »ó, ¿ì, ÇÏ, ÁÂ
+    static int N, M, R, C, L;				// ¼¼·Î, °¡·Î, ¸ÇÈ¦ À§Ä¡(R, C), Å»Ãâ ÈÄ ¼Ò¿äµÈ ½Ã°£ L
+>>>>>>> dc66cd4ff401025906323d8a40f8155d12b02eeb
     static int[][] map;
     static Dir start;
     
